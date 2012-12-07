@@ -1,7 +1,7 @@
 rws-bugs
 ========
 
-A Public Bug/Issue Tracker for NetDNA's REST API (RESTweb Services™)
+A Public Bug/Issue Tracker for NetDNA's [REST API](https://developer.netdna.com/) aka [RESTweb Services™](http://www.netdna.com/technology/restful-api/)
 
 Hello and welcome NetDNA Developers.  We wanted to make it easy for you to [report API issues](https://github.com/netdna/rws-bugs/issues)  to our dev team 
 and what better than GitHub. You can get started here: https://github.com/netdna/rws-bugs/issues
